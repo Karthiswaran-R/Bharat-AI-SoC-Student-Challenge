@@ -285,5 +285,42 @@ print(f"Total execution time   : {total_time:.2f} s")
 
 ## 13. Output
 
+<img width="428" height="341" alt="Figure 1" src="https://github.com/user-attachments/assets/6b727a2e-2b85-409d-abbf-f4114e42b296" />
+
+<img width="471" height="292" alt="Figure 2" src="https://github.com/user-attachments/assets/389ecd03-aec1-4b26-9e61-9a177abb7f54" />
+
 <img width="392" height="159" alt="Figure 3" src="https://github.com/user-attachments/assets/80e5a910-478d-49c0-880f-4129c9677d45" />
 
+## 14. Project Team
+
+Team Name: AI-SoC Innovators
+
+Hari Kesavaraj J
+
+Iniyavan S
+
+Karthiswaran R
+
+B.E Electronics Engineering
+(VLSI Design & Technology)
+K. S. Rangasamy College of Technology
+
+## 15. Institution
+
+K. S. Rangasamy College of Technology
+Department of Electronics Engineering
+(VLSI Design & Technology)
+
+## 16. Conclusion
+
+This work successfully:
+
+Implements complete object detection pipeline on ARM Cortex-A9
+
+Benchmarks real embedded latency
+
+Establishes performance baseline
+
+Prepares architecture for FPGA acceleration phase
+
+This CPU model serves as the software reference for the hardware-accelerated system to follow.

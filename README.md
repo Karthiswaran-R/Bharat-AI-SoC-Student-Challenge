@@ -1,6 +1,9 @@
-# Bharat AI-SoC Student Challenge  
+# Bharat AI-SoC Student Challenge 
+
 ## Object Detection on Xilinx PYNQ-Z2 (CPU Baseline Implementation)
 
+ <img width="405" height="258" alt="Screenshot 2026-02-04 105532" src="https://github.com/user-attachments/assets/1f12815f-cf45-42ec-bda0-e07692a3544a" />
+ 
 ---
 
 ## Project Context

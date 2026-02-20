@@ -283,20 +283,7 @@ print(f"Throughput (FPS)       : {fps:.2f}")
 print(f"Total execution time   : {total_time:.2f} s")
 ```
 
-Computes and prints:
+## 13. Output
 
-Average latency
+<img width="392" height="159" alt="Figure 3" src="https://github.com/user-attachments/assets/80e5a910-478d-49c0-880f-4129c9677d45" />
 
-Min / Max latency
-
-Throughput (FPS)
-
-Total runtime
-
-Results Summary
-
-The CPU-only implementation successfully performs object detection on the PYNQ-Z2 platform. Performance metrics obtained from this baseline provide:
-
-Insight into CPU computational limits
-
-Reference for future FPGA-based acceleration
